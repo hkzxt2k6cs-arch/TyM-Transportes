@@ -1,0 +1,7 @@
+{
+  "name": "TyM Transportes y Mudanzas",
+  "description": "A premium logistics and moving application for TyM, featuring AI-powered moving estimates, service booking, and real-time customer support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
